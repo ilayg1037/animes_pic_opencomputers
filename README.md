@@ -18,3 +18,10 @@
 Нажмите View raw чтобы скачать файл (ОБЯЗАТЕЛЬНО У ВАС ДОЛЖЕН CHROME! ИЛИ СКРИПТ КОТОРЫЙ СКОПИРУЕТ ССЫЛОК КОТОРЫЕ СКАЧИВАЕТСЯ! ИНАЧЕ ЕСЛИ ВЫ ПРОСТО СКОПИРУЙТЕ ССЫЛКУ ПРИМЕР wget "wget https://github.com/ilayg1037/animes_pic_opencomputers/edit/main/2121.pic" после скачивания и попытаетесь использовать эту картинку в MultiScreen появится ошибка Wrong signature:. поэтому рекомендую прочитать до конца инструкции установки!)
 
 
+![image](https://github.com/user-attachments/assets/c1190063-146a-4e3d-b60e-5c754b37d1b0)
+
+Дальше нажимаете кнопку где отображен изображен выше ^
+
+Дальше уже на строке после скачивания и используйте эту картинку в MultiScreen (Разрешение экрана: 730x216)
+
+Видео-Тутор: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe id="js_video_iframe" src="https://jumpshare.com/embed/DuPhvp1JTLQsihDVRY8i" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

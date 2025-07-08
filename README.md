@@ -24,4 +24,4 @@
 
 Дальше уже на строке после скачивания и используйте эту картинку в MultiScreen (Разрешение экрана: 730x216)
 
-Видео-Тутор: ![video](https://jumpshare.com/embed/DuPhvp1JTLQsihDVRY8i)
+Видео-Тутор: ![video](https://jumpshare.com/s/DuPhvp1JTLQsihDVRY8i)
